@@ -1,0 +1,183 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-02T05:09:22.946930",
+        "generated_at_readable": "2026-10-02 05:09:22",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://multancafestop.pk/",
+        "requested_url": null,
+        "final_url": "https://multancafestop.pk/",
+        "page_title": "",
+        "status_code": 200
+    },
+    "performance": {
+        "response_time_ms": 24263.59,
+        "status": "Slow",
+        "page_size_kb": 0
+    },
+    "security": {
+        "https": false,
+        "redirected": false
+    },
+    "seo": {
+        "score": 0,
+        "title": "",
+        "title_length": 0,
+        "meta_description": "",
+        "meta_description_length": 0,
+        "canonical_url": "",
+        "h1_count": 0,
+        "structured_data_count": 0,
+        "checks": {
+            "title_present": false,
+            "title_good_length": false,
+            "meta_description_present": false,
+            "meta_description_good_length": false,
+            "h1_present": false,
+            "canonical_present": false,
+            "structured_data_present": false
+        }
+    },
+    "content": {
+        "word_count": 0,
+        "has_content": false,
+        "content_level": "Low"
+    },
+    "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0,
+        "alt_score": 100
+    },
+    "technical": {
+        "score": 0,
+        "https": false,
+        "mobile_responsive": false,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false
+    },
+    "food_business": {
+        "score": 0,
+        "features": {
+            "menu": false,
+            "contact": false,
+            "about": false,
+            "reservation": false,
+            "online_ordering": false,
+            "social_media": false,
+            "email": false,
+            "phone": false,
+            "address": false
+        }
+    },
+    "links": {
+        "total": 0,
+        "internal": [],
+        "external": []
+    },
+    "forms": {
+        "count": 0
+    },
+    "cta": {
+        "count": 0,
+        "buttons": []
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": [],
+        "has_address": false
+    },
+    "technology": [],
+    "general": {
+        "language": "en",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 12,
+        "quality_label": "Poor",
+        "priority": "Critical",
+        "problems": [
+            "The website does not have a detectable page title.",
+            "No meta description was detected.",
+            "No H1 heading was detected.",
+            "The website is not using HTTPS.",
+            "A mobile viewport configuration was not detected.",
+            "A food menu was not detected.",
+            "A contact section/page was not detected.",
+            "Online ordering was not detected.",
+            "Reservation functionality was not detected.",
+            "Social media links were not detected.",
+            "A phone number was not detected."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Page",
+            "About Page",
+            "Reservations",
+            "Online Ordering",
+            "Social Media",
+            "Email",
+            "Phone",
+            "Business Address"
+        ],
+        "recommendations": [
+            "Add a clearly visible food menu with dishes, prices and categories.",
+            "Add online ordering or connect customers to an ordering platform.",
+            "Add table reservation functionality if the business accepts reservations.",
+            "Add a dedicated contact section with phone, email and location information.",
+            "Add a concise SEO meta description describing the restaurant or food business.",
+            "Enable HTTPS to improve security and visitor trust.",
+            "Add a mobile viewport configuration and verify responsive layouts.",
+            "Add official social media links so customers can discover and engage with the business."
+        ]
+    },
+    "ai_analysis": {
+        "score": 12,
+        "problems": [
+            "The website does not have a detectable page title.",
+            "No meta description was detected.",
+            "No H1 heading was detected.",
+            "The website is not using HTTPS.",
+            "A mobile viewport configuration was not detected.",
+            "A food menu was not detected.",
+            "A contact section/page was not detected.",
+            "Online ordering was not detected.",
+            "Reservation functionality was not detected.",
+            "Social media links were not detected.",
+            "A phone number was not detected."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Page",
+            "About Page",
+            "Reservations",
+            "Online Ordering",
+            "Social Media",
+            "Email",
+            "Phone",
+            "Business Address"
+        ],
+        "recommendations": [
+            "Implement HTTPS to ensure secure connections.",
+            "Add a mobile viewport configuration to improve mobile usability.",
+            "Add a food menu to provide customers with menu options.",
+            "Create a contact page to allow customers to reach out.",
+            "Implement online ordering functionality to streamline the ordering process.",
+            "Add social media links to engage with customers and promote the business.",
+            "Include email and phone contact information for easy communication.",
+            "Provide a physical address to ensure customers can locate the business.",
+            "Consider adding a business address to improve the overall quality of the website."
+        ],
+        "priority": "Critical"
+    }
+}

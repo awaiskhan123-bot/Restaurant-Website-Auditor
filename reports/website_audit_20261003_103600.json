@@ -1,0 +1,110 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T10:36:00.847495",
+        "generated_at_readable": "2026-10-03 10:36:00",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://share.google/ENl7YBZ8nPRRnRE4i/",
+        "requested_url": "https://share.google/ENl7YBZ8nPRRnRE4i/",
+        "final_url": "https://share.google/error",
+        "page_title": "",
+        "status_code": 200
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "share.google",
+        "title_length": 12,
+        "meta_description": "",
+        "meta_description_length": 0,
+        "canonical_url": "",
+        "h1": [],
+        "h1_count": 0,
+        "h2": [
+            "share.google"
+        ],
+        "structured_data_count": 0,
+        "mobile_viewport": true
+    },
+    "content": {
+        "word_count": 13,
+        "preview": "share.google Something went wrong and this URL isn’t available Google Privacy & Terms"
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": true,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "addresses": [],
+        "contact_page_links": [],
+        "email_available": false,
+        "phone_available": false,
+        "address_available": false
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 20,
+        "summary": "",
+        "problems": [
+            "No menu information found",
+            "No contact information found",
+            "No opening hours found",
+            "No online ordering information found",
+            "No social media presence found"
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Information",
+            "Opening Hours",
+            "Online Ordering",
+            "Social Media Integration"
+        ],
+        "recommendations": [
+            "Ensure a comprehensive menu is available for customers to view and order from.",
+            "Add contact information such as phone number, email, and physical address.",
+            "Provide opening hours and any special hours for the restaurant.",
+            "Implement online ordering functionality to allow customers to place orders.",
+            "Integrate social media platforms to increase visibility and engagement."
+        ],
+        "priority": "High",
+        "strengths": [
+            "The website is mobile responsive and has a valid HTTPS connection.",
+            "The website has a basic SEO structure with a title and mobile viewport.",
+            "The website has a small amount of content, which is good for SEO."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

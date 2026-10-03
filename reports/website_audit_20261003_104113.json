@@ -1,0 +1,119 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T10:41:13.106681",
+        "generated_at_readable": "2026-10-03 10:41:13",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.mcdonalds.com/",
+        "requested_url": "https://www.mcdonalds.com/",
+        "final_url": "https://www.mcdonalds.com/",
+        "page_title": "",
+        "status_code": 403
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "Access Denied",
+        "title_length": 13,
+        "meta_description": "",
+        "meta_description_length": 0,
+        "canonical_url": "",
+        "h1": [
+            "Access Denied"
+        ],
+        "h1_count": 1,
+        "h2": [],
+        "structured_data_count": 0,
+        "mobile_viewport": false
+    },
+    "content": {
+        "word_count": 15,
+        "preview": "Access Denied You don't have permission to access \"http://www.mcdonalds.com/\" on this server. Reference #18.8fc11302.1791049235.59ee67cc https://errors.edgesuite.net/18.8fc11302.1791049235.59ee67cc"
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": false,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+            "https://errors.edgesuite.net/18.8fc11302.1791049235.59ee67cc"
+        ],
+        "contact_page_links": [],
+        "email_available": false,
+        "phone_available": false,
+        "address_available": true
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 20,
+        "summary": "",
+        "problems": [
+            "Website is not accessible (403 error).",
+            "No menu information found.",
+            "No contact information found.",
+            "No online ordering or reservation information found.",
+            "No social media presence detected.",
+            "No opening hours information found.",
+            "No structured data or SEO optimization found.",
+            "Mobile responsiveness and HTTPS are not verified."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Information",
+            "Online Ordering",
+            "Reservations",
+            "Social Media Integration",
+            "Opening Hours",
+            "Structured Data",
+            "SEO Optimization",
+            "Mobile Responsiveness"
+        ],
+        "recommendations": [
+            "Ensure the website is accessible and not blocked by the server.",
+            "Implement a menu and contact information section on the website.",
+            "Add online ordering and reservation functionality if applicable.",
+            "Integrate social media platforms for customer engagement.",
+            "Provide opening hours information and ensure it is accessible.",
+            "Implement structured data and SEO best practices.",
+            "Ensure the website is mobile responsive and uses HTTPS."
+        ],
+        "priority": "Critical",
+        "strengths": [
+            "The website is technically accessible and uses HTTPS."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

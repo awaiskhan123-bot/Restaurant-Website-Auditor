@@ -1,0 +1,99 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T13:51:27.506698",
+        "generated_at_readable": "2026-10-03 13:51:27",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.foodpanda.pk/",
+        "requested_url": "https://www.foodpanda.pk/",
+        "final_url": "https://www.foodpanda.pk/",
+        "page_title": "",
+        "status_code": 403
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "Access to this page has been denied",
+        "title_length": 35,
+        "meta_description": "px-captcha",
+        "meta_description_length": 10,
+        "canonical_url": "",
+        "h1": [],
+        "h1_count": 0,
+        "h2": [],
+        "structured_data_count": 0,
+        "mobile_viewport": true
+    },
+    "content": {
+        "word_count": 23,
+        "preview": "Access to this page has been denied Before we continue... Please confirm you are a human (and not a bot). Reference ID 193d07ef-bf6c-11f1-9e6a-f30bfa5038c9"
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": true,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "addresses": [],
+        "contact_page_links": [],
+        "email_available": false,
+        "phone_available": false,
+        "address_available": false
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 10,
+        "summary": "",
+        "problems": [
+            "The website is not accessible and returns a 403 error. This is a critical issue as it means the website is not functioning properly and cannot be used to provide any information or services.",
+            "No menu, contact information, opening hours, or online ordering options were detected on the website."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Information",
+            "Online Ordering",
+            "Opening Hours"
+        ],
+        "recommendations": [
+            "Ensure the website is accessible and functioning properly. Contact the website administrators to resolve the 403 error.",
+            "Implement a menu, contact information, online ordering, and opening hours to improve the customer experience and functionality of the website."
+        ],
+        "priority": "Critical",
+        "strengths": [
+            "The website is technically sound with HTTPS and mobile responsiveness, but these are not relevant to the core functionality of a Food & Beverage website."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

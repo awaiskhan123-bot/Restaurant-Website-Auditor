@@ -1,0 +1,128 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T13:06:27.248635",
+        "generated_at_readable": "2026-10-03 13:06:27",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.mcdonalds.com/",
+        "requested_url": "https://www.mcdonalds.com/",
+        "final_url": "https://www.mcdonalds.com/",
+        "page_title": "",
+        "status_code": 403
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "Access Denied",
+        "title_length": 13,
+        "meta_description": "",
+        "meta_description_length": 0,
+        "canonical_url": "",
+        "h1": [
+            "Access Denied"
+        ],
+        "h1_count": 1,
+        "h2": [],
+        "structured_data_count": 0,
+        "mobile_viewport": false
+    },
+    "content": {
+        "word_count": 15,
+        "preview": "Access Denied You don't have permission to access \"http://www.mcdonalds.com/\" on this server. Reference #18.8fc11302.1791057932.5da27ff1 https://errors.edgesuite.net/18.8fc11302.1791057932.5da27ff1"
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": false,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "addresses": [
+            "https://errors.edgesuite.net/18.8fc11302.1791057932.5da27ff1"
+        ],
+        "contact_page_links": [],
+        "email_available": false,
+        "phone_available": false,
+        "address_available": true
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 20,
+        "summary": "",
+        "problems": [
+            "Website is not accessible (403 error).",
+            "No menu information found.",
+            "No contact information found.",
+            "No online ordering information found.",
+            "No social media presence found.",
+            "No opening hours information found.",
+            "No structured data found.",
+            "No mobile responsiveness detected.",
+            "No favicon found.",
+            "No canonical link found.",
+            "No JavaScript app detected.",
+            "Very low content word count (15 words)."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Information",
+            "Online Ordering",
+            "Social Media Presence",
+            "Opening Hours",
+            "Structured Data",
+            "Mobile Responsiveness",
+            "Favicon",
+            "Canonical Link",
+            "JavaScript App"
+        ],
+        "recommendations": [
+            "Implement a contact form or phone number for customers to reach out.",
+            "Add a menu section with available items and prices.",
+            "Create a reservation system for dine-in customers.",
+            "Add social media links to the website for customer engagement.",
+            "Provide opening hours and any special hours on the website.",
+            "Implement structured data to improve SEO and accessibility.",
+            "Ensure the website is mobile-friendly and responsive.",
+            "Add a favicon to improve the website's appearance.",
+            "Add a canonical link to the main page to prevent duplicate content issues.",
+            "Consider adding a JavaScript app for a better user experience."
+        ],
+        "priority": "Critical",
+        "strengths": [
+            "The website is HTTPS secured.",
+            "The website has a basic structure with a single page title."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T13:39:36.699801",
+        "generated_at_readable": "2026-10-03 13:39:36",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.wix.com/",
+        "requested_url": "https://www.wix.com/",
+        "final_url": "https://www.wix.com/",
+        "page_title": "",
+        "status_code": 200
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "Website Builder - Create a Free Website In Minutes | Wix.com",
+        "title_length": 60,
+        "meta_description": "Get everything you need to build a website your way. Wix’s free, easy-to-use website builder offers 2,000+ templates, built-in AI tools and a custom domain.",
+        "meta_description_length": 156,
+        "canonical_url": "https://www.wix.com",
+        "h1": [
+            "Create your future on the leading website builder"
+        ],
+        "h1_count": 1,
+        "h2": [
+            "Wix Harmony is where you create a site that means business.",
+            "Website creation, as natural as thinking",
+            "Solutions to fuel every business move",
+            "Website templates for any industry",
+            "Radical customization, remarkably simple",
+            "Meet Aria, your unfair advantage.",
+            "Build your website on unshakeable foundations",
+            "Create a website, get the perfect domain to match",
+            "Spot the gaps, grab the opportunities",
+            "A better way to run your day-to-day"
+        ],
+        "structured_data_count": 5,
+        "mobile_viewport": true
+    },
+    "content": {
+        "word_count": 2893,
+        "preview": "Website Builder - Create a Free Website In Minutes | Wix.com Product CREATION Website templates Choose from 2000+ website templates. Website design Create your site with intuitive design features. Landing page builder Drive more conversions with one powerful page. AI AI website builder Create your site in no time with AI. AI features Discover all Wix has to offer for your site and business. Wixel Create high-quality content with an AI design platform. BUSINESS eCommerce site Run & grow your eCommerce website. Online portfolio Showcase your work with a portfolio website. Restaurant website Manage your menus, orders, and reservations. Blog website Share ideas & grow your traffic. Event website Sell tickets, collect RSVPs & accept payments. ESSENTIALS Domain registration Buy & register a domain for your website. Web hosting Get secure & reliable website hosting. Business email Get a professional email to match your domain. Business website → Launch a professional site for any type of business. Solutions MANAGEMENT Payment solutions Accept & manage payments online. POS Take payments and manage sales, anywhere. Mobile app Run your business on the go from your mobile. Wix Headless Connect your frontend to Wix infrastructure. CRM system Build & manage customer relationships. Scheduling system Manage appointments, staff & clients. GROWTH Email marketing Create email marketing campaigns. SEO tools Optimize your website for search engines. Website analytics Get reports with actionable data & insights. BRANDING Logo Maker Create a custom logo for your brand. Business Name Generator Get name ideas for your business. More free tools Explore tools to help you establish your brand. Business management tools → Explore all business management and software features. Resources EXPLORE Wix Blog Get the latest website tips and design trends Web design inspiration Explore website examples and get design ideas SUPPORT Help Center Find the answers and support you need. Hire a professional "
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": true,
+        "favicon": false,
+        "canonical": true,
+        "structured_data": true,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [
+            "2006-2026"
+        ],
+        "addresses": [
+            "November 6th, Wix goes public on the NASDAQ global market."
+        ],
+        "contact_page_links": [
+            "https://www.wix.com/about/contact-us"
+        ],
+        "email_available": false,
+        "phone_available": true,
+        "address_available": true
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 20,
+        "summary": "",
+        "problems": [
+            "Menu not detected",
+            "Opening hours not detected",
+            "Online ordering not detected",
+            "Contact information not detected"
+        ],
+        "missing_features": [
+            "Menu",
+            "Opening hours",
+            "Online ordering",
+            "Contact information"
+        ],
+        "recommendations": [
+            "Add a menu to the website to provide customers with food options.",
+            "Include opening hours and hours of operation to help customers plan their visits.",
+            "Implement online ordering functionality to allow customers to place orders directly on the website.",
+            "Include contact information such as phone number, email, and physical address to facilitate customer communication."
+        ],
+        "priority": "Critical",
+        "strengths": [
+            "The website has a responsive design and mobile usability.",
+            "It has a good SEO setup with a title, meta description, and structured data.",
+            "Social media presence is strong with multiple platforms integrated."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

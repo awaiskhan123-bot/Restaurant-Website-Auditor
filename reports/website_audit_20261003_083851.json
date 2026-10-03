@@ -1,0 +1,106 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-10-03T08:38:51.897473",
+        "generated_at_readable": "2026-10-03 08:38:51",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.foodpanda.pk/",
+        "requested_url": "https://www.foodpanda.pk/",
+        "final_url": "https://www.foodpanda.pk/",
+        "page_title": "",
+        "status_code": 403
+    },
+    "performance": {},
+    "security": {},
+    "seo": {
+        "title": "Access to this page has been denied",
+        "title_length": 35,
+        "meta_description": "px-captcha",
+        "meta_description_length": 10,
+        "canonical_url": "",
+        "h1": [],
+        "h1_count": 0,
+        "h2": [],
+        "structured_data_count": 0,
+        "mobile_viewport": true
+    },
+    "content": {
+        "word_count": 16,
+        "preview": "Before we continue... Please confirm you are a human (and not a bot). Reference ID 6f2831e8-bf40-11f1-82a6-7cff51d41e63"
+    },
+    "images": {},
+    "technical": {
+        "https": true,
+        "mobile_responsive": true,
+        "favicon": false,
+        "canonical": false,
+        "structured_data": false,
+        "javascript_app": false
+    },
+    "food_business": {},
+    "links": {},
+    "forms": {
+        "count": 0
+    },
+    "cta": {},
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "addresses": [],
+        "contact_page_links": [],
+        "email_available": false,
+        "phone_available": false,
+        "address_available": false
+    },
+    "technology": [],
+    "general": {
+        "language": "",
+        "word_count": 0,
+        "mobile_responsive": false,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 0,
+        "quality_label": "",
+        "priority": "",
+        "problems": [],
+        "missing_features": [],
+        "recommendations": []
+    },
+    "ai_analysis": {
+        "score": 15,
+        "summary": "",
+        "problems": [
+            "Website does not have a valid page title or meta description.",
+            "Website does not have a valid opening hours.",
+            "Website does not have a valid menu.",
+            "Website does not have a valid contact information.",
+            "Website does not have a valid online ordering system.",
+            "Website does not have a valid social media presence."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Information",
+            "Online Ordering",
+            "Social Media Integration"
+        ],
+        "recommendations": [
+            "Implement a valid page title and meta description.",
+            "Add opening hours and contact information.",
+            "Create a menu and online ordering system.",
+            "Add social media integration."
+        ],
+        "priority": "Critical",
+        "strengths": [
+            "The website is mobile responsive and uses HTTPS.",
+            "The website has a valid opening hours and contact information."
+        ],
+        "ai_status": "AI analysis completed"
+    }
+}

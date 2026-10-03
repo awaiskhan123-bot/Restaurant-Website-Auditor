@@ -1,0 +1,178 @@
+{
+    "report_information": {
+        "report_name": "AI Food Website Quality Audit",
+        "generated_at": "2026-09-30T13:11:15.880145",
+        "generated_at_readable": "2026-09-30 13:11:15",
+        "version": "2.0.0",
+        "mode": "real-time"
+    },
+    "website": {
+        "url": "https://www.reddit.com/",
+        "requested_url": "https://www.reddit.com/",
+        "final_url": "https://www.reddit.com/",
+        "page_title": "Reddit",
+        "status_code": 200
+    },
+    "performance": {
+        "response_time_ms": 1132.26,
+        "status": "Moderate",
+        "page_size_kb": 8.2
+    },
+    "security": {
+        "https": true,
+        "redirected": false
+    },
+    "seo": {
+        "score": 14,
+        "title": "Reddit",
+        "title_length": 6,
+        "meta_description": "",
+        "meta_description_length": 0,
+        "canonical_url": "",
+        "h1_count": 0,
+        "structured_data_count": 0,
+        "checks": {
+            "title_present": true,
+            "title_good_length": false,
+            "meta_description_present": false,
+            "meta_description_good_length": false,
+            "h1_present": false,
+            "canonical_present": false,
+            "structured_data_present": false
+        }
+    },
+    "content": {
+        "word_count": 1,
+        "has_content": false,
+        "content_level": "Low"
+    },
+    "images": {
+        "total": 0,
+        "with_alt": 0,
+        "without_alt": 0,
+        "alt_score": 100
+    },
+    "technical": {
+        "score": 60,
+        "https": true,
+        "mobile_responsive": true,
+        "favicon": true,
+        "canonical": false,
+        "structured_data": false
+    },
+    "food_business": {
+        "score": 0,
+        "features": {
+            "menu": false,
+            "contact": false,
+            "about": false,
+            "reservation": false,
+            "online_ordering": false,
+            "social_media": false,
+            "email": false,
+            "phone": false,
+            "address": false
+        }
+    },
+    "links": {
+        "total": 0,
+        "internal": 0,
+        "external": 0
+    },
+    "forms": {
+        "count": 1
+    },
+    "cta": {
+        "count": 0,
+        "buttons": []
+    },
+    "contact": {
+        "emails": [],
+        "phones": [],
+        "social_links": [],
+        "has_address": false
+    },
+    "technology": [],
+    "general": {
+        "language": "en",
+        "word_count": 1,
+        "mobile_responsive": true,
+        "total_links": 0,
+        "has_email": false,
+        "has_phone": false,
+        "has_social_media": false
+    },
+    "automatic_analysis": {
+        "score": 29,
+        "quality_label": "Poor",
+        "priority": "Critical",
+        "problems": [
+            "Page title length is 6 characters; SEO-friendly titles are usually around 30–60 characters.",
+            "No meta description was detected.",
+            "No H1 heading was detected.",
+            "A food menu was not detected.",
+            "A contact section/page was not detected.",
+            "Online ordering was not detected.",
+            "Reservation functionality was not detected.",
+            "Social media links were not detected.",
+            "A phone number was not detected."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Page",
+            "About Page",
+            "Reservations",
+            "Online Ordering",
+            "Social Media",
+            "Email",
+            "Phone",
+            "Business Address"
+        ],
+        "recommendations": [
+            "Add a clearly visible food menu with dishes, prices and categories.",
+            "Add online ordering or connect customers to an ordering platform.",
+            "Add table reservation functionality if the business accepts reservations.",
+            "Add a dedicated contact section with phone, email and location information.",
+            "Add a concise SEO meta description describing the restaurant or food business.",
+            "Add official social media links so customers can discover and engage with the business."
+        ]
+    },
+    "ai_analysis": {
+        "score": 29,
+        "problems": [
+            "Page title length is 6 characters; SEO-friendly titles are usually around 30–60 characters.",
+            "No meta description was detected.",
+            "No H1 heading was detected.",
+            "A food menu was not detected.",
+            "A contact section/page was not detected.",
+            "Online ordering was not detected.",
+            "Reservation functionality was not detected.",
+            "Social media links were not detected.",
+            "A phone number was not detected."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Page",
+            "About Page",
+            "Reservations",
+            "Online Ordering",
+            "Social Media",
+            "Email",
+            "Phone",
+            "Business Address"
+        ],
+        "recommendations": [
+            "Optimize the page title to be around 30-60 characters.",
+            "Add a meta description to improve SEO.",
+            "Add an H1 heading to the main content.",
+            "Add a food menu to the website.",
+            "Add a contact section or page to the website.",
+            "Add online ordering functionality to the website.",
+            "Add reservation functionality to the website.",
+            "Add social media links to the website.",
+            "Add a phone number to the website.",
+            "Add a business address to the website."
+        ],
+        "priority": "High"
+    }
+}

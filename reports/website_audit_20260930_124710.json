@@ -1,0 +1,46 @@
+{
+    "audit_date": "2026-09-30T12:47:10.903591",
+    "website": "https://example.com/",
+    "automatic_facts": {
+        "scan_successful": true,
+        "website": "https://example.com/",
+        "page_title": "Example Domain",
+        "status_code": 200,
+        "total_links": 1,
+        "has_email": false,
+        "emails": [],
+        "has_phone": false,
+        "phone_numbers": [],
+        "has_social_media": false,
+        "social_links": [],
+        "has_menu": false,
+        "menu_links": [],
+        "has_contact_page": false,
+        "contact_links": [],
+        "has_about_page": false,
+        "has_reservation": false,
+        "reservation_links": [],
+        "has_online_ordering": false,
+        "order_links": [],
+        "cta_count": 0,
+        "cta_buttons": [],
+        "mobile_responsive_indicator": true
+    },
+    "ai_analysis": {
+        "score": 20,
+        "problems": [
+            "The website does not have a menu, contact page, or online ordering feature, which are essential for a comprehensive Food & Beverage website."
+        ],
+        "missing_features": [
+            "Menu",
+            "Contact Page",
+            "Online Ordering"
+        ],
+        "recommendations": [
+            "Add a menu section to provide customers with a list of available dishes and their prices.",
+            "Create a contact page to facilitate customer inquiries and reservations.",
+            "Implement an online ordering system to allow customers to place orders directly on the website."
+        ],
+        "priority": "High"
+    }
+}

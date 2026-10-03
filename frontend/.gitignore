@@ -1,0 +1,110 @@
+
+### `.gitignore`
+
+```gitignore
+# ==============================
+# Python
+# ==============================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# ==============================
+# Environment / Secrets
+# ==============================
+
+.env
+.env.*
+!.env.example
+
+secrets.json
+credentials.json
+*.pem
+*.key
+
+# ==============================
+# Reports / Generated Files
+# ==============================
+
+reports/*.json
+reports/*.html
+reports/*.pdf
+
+# Keep folder
+!reports/.gitkeep
+
+# ==============================
+# Playwright
+# ==============================
+
+playwright-report/
+test-results/
+blob-report/
+
+# ==============================
+# Node / React / Vite
+# ==============================
+
+node_modules/
+dist/
+build/
+.vite/
+
+# ==============================
+# Logs
+# ==============================
+
+*.log
+logs/
+
+# ==============================
+# IDE
+# ==============================
+
+.idea/
+.vscode/
+*.iml
+
+# ==============================
+# Operating System
+# ==============================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==============================
+# Python Tools
+# ==============================
+
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# ==============================
+# Temporary Files
+# ==============================
+
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ==============================
+# Local Database
+# ==============================
+
+*.db
+*.sqlite
+*.sqlite3
